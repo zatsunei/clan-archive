@@ -19,7 +19,7 @@
 
 <div align="center" class="signatures">
 
-<p><strong>Signed by</strong></p>
+<p><strong>Signed by (NOT YET)</strong></p>
 <p><em>Vexizure</em><br>
 Archon General of the Clan of Zatsunei</p>
 <p>In [location]<br>
