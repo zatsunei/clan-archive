@@ -124,7 +124,7 @@ The Clan grows through those who choose to build it further. None shall be compe
 
 <div align="center">
 
-A clan member shall not break the laws beyond the Clan. Defiance against them brings shame upon us.
+A clan member shall not break the laws beyond the Clan. Defiance against them brings shame upon us, unless such defiance is dealt to our enemies.
 
 </div>
 
