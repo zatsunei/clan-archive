@@ -45,4 +45,9 @@ Archon General of the Clan of Zatsunei</p>
 <p align="center"><strong>THE LAND OF THE FOX</strong></p>
 <br>
 
-<h2 align="center">CHAPTER I. ― </h2>
+<h2 align="center">Article 1. ― The Clan</h2>
+
+1. The Clan of Zatsunei is a fellowship of its members, united by a common purpose, by allegiance and loyalty, and by camaraderie.
+
+2. Test test test
+
