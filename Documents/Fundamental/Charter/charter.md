@@ -25,6 +25,13 @@ Archon General of the Clan of Zatsunei</p>
 <p>In [location]<br>
 [day] [month] [year]</p>
 
+<br>
+
+<p><strong>Countersigned by (NOT YET)</strong></p>
+<p><em>Fenrir</em><br>
+Marshal of the Clan of Zatsunei</p>
+<p>In [location]<br>
+[day] [month] [year]</p>
 
 <br><br>
 
@@ -62,7 +69,7 @@ Archon General of the Clan of Zatsunei</p>
 
 **1.** The supreme authority of the Clan is vested in the Archon General of the Clan. He may exercise all powers necessary for its governance, administration, defense, and direction, except where this Charter provides otherwise.
 
-**2.** The Archon General stands in responsibility for this Charter and he is the sole person who ultimately amends this Charter.
+**2.** The Archon General stands in responsibility for this Charter and he is the sole person who ultimately amends this Charter. 
 
 **3.** The Archon General shall uphold the Charter and the laws of the Clan and he shall lead and protect the Clan and its members. He shall not go against his own Clan.
 
@@ -97,6 +104,7 @@ Archon General of the Clan of Zatsunei</p>
 
 **2.** Amendments cannot contradict the fundamental principles of the Clan.
 
+**3.** The Archon General shall meet and counsel with the Marshal before proclaiming an amendment.
 
 <br>
 <hr>
