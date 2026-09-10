@@ -111,10 +111,49 @@ A member who breaks the laws of the Clan shall be judged for it. The sentence sh
 </div>
 
 <br>
-<h2 align="center">Article 11. ― Growth and Legacy</h2>
+<h2 align="center">Article 11. ― Growth</h2>
 
 <div align="center">
 
 The Clan grows through those who choose to build it further. None shall be compelled to do so, but those who do shall be honored among the Clan.
 
 </div>
+
+<br>
+<h2 align="center">Article 12. ― Lawfulness outside the Clan</h2>
+
+<div align="center">
+
+A clan member shall not break the laws beyond the Clan. Defiance against them brings shame upon us.
+
+</div>
+
+<br>
+<h2 align="center">Article 13. ― Restraint and Humility</h2>
+
+<div align="center">
+
+A clan member shall not let anger dictate their actions and pride shall not dictate their worth. Restraint and humility are what they should demonstrate.
+
+</div>
+
+<br>
+<h2 align="center">Article 14. ― Gratitude</h2>
+
+<div align="center">
+
+A clan member shall be grateful for what they have and what they receive. They must not take it for granted.
+
+</div>
+
+<br>
+<h2 align="center">Article 15. ― Endurance</h2>
+
+<div align="center">
+
+A clan member shall endure hardship and not abandon the Clan for it.
+
+</div>
+
+<br>
+<hr>
