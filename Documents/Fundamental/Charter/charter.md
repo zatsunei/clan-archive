@@ -55,11 +55,54 @@ Archon General of the Clan of Zatsunei</p>
 
 **4.** The Clan shall be governed in accordance with this Charter.
 
+**5.** If another Clan rule conflicts with this Charter, the Charter takes precedence.
+
 <br>
 <h2 align="center">Article 2. ― The Archon General</h2>
 
-**1.** The supreme authority of the Clan is vested in the Archon General of the Clan.
+**1.** The supreme authority of the Clan is vested in the Archon General of the Clan. He may exercise all powers necessary for its governance, administration, defense, and direction, except where this Charter provides otherwise.
 
 **2.** The Archon General stands in responsibility for this Charter and he is the sole person who ultimately amends this Charter.
 
-**3.**
+**3.** The Archon General shall uphold the Charter and the laws of the Clan and he shall lead and protect the Clan and its members. He shall not go against his own Clan.
+
+**4.** If the Archon General is unable to lead, the Marshal shall assume such duties and authority of the Archon General as fall within the powers of the Marshal.
+
+**5.** If the Archon General ultimately resigns, the Marshal will succeed him.
+
+<br>
+<h2 align="center">Article 3. ― The Ranks</h2>
+
+**1.** The ranks of the Clan shall be established in accordance with the rank hierarchy of the Discord server of the Clan.
+
+**2.** The Archon General decides the powers and responsibilities of each rank.
+
+**3.** There shall be five statuses, and the ranks of the Marshal and Archon General. Additional ranks or status levels may be established by the Archon General.
+
+<br>
+<h2 align="center">Article 4. ― Membership</h2>
+
+**1.** Membership in the Clan shall be open to any person who pledges loyalty and allegiance to the Clan and its principles.
+
+**2.** Members may participate in the affairs and activities of the Clan.
+
+**3.** Members shall be entitled to the privileges associated with their rank.
+
+**4.** Membership ends upon expulsion from the Clan.
+
+<br>
+<h2 align="center">Article 5. ― Amendments</h2> 
+
+**1.** The Archon General has the responsibility to announce an amendment of this Charter.
+
+**2.** Amendments cannot contradict the fundamental principles of the Clan.
+
+
+<br>
+<hr>
+
+<div class="EndStatement">
+<p align="center"><b><em>
+If the Divine Providence is for us, who can be against us?
+</b></em></p>
+</div>
