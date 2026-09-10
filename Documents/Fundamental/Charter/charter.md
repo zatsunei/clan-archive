@@ -45,9 +45,21 @@ Archon General of the Clan of Zatsunei</p>
 <p align="center"><strong>THE LAND OF THE FOX</strong></p>
 <br>
 
-<h2 align="center">Article 1. ― The Clan</h2>
+<h2 align="center">Article 1. ― The Clan and the Charter</h2>
 
-1. The Clan of Zatsunei is a fellowship of its members, united by a common purpose, by allegiance and loyalty, and by camaraderie.
+**1.** The Clan of Zatsunei is a fellowship of its members, united by a common purpose, by allegiance and loyalty, and by camaraderie.
 
-2. Test test test
+**2.** The Clan shall preserve the identity and traditions of Zatsunei and shall provide a common institution for its members.
 
+**3.** The Charter is the supreme law of the Clan, it is the fundamental law of the Clan. All offices, ranks, and laws of the Clan shall be subject to this Charter.
+
+**4.** The Clan shall be governed in accordance with this Charter.
+
+<br>
+<h2 align="center">Article 2. ― The Archon General</h2>
+
+**1.** The supreme authority of the Clan is vested in the Archon General of the Clan.
+
+**2.** The Archon General stands in responsibility for this Charter and he is the sole person who ultimately amends this Charter.
+
+**3.**
