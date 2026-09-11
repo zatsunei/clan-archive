@@ -20,18 +20,16 @@
 <div align="center" class="signatures">
 
 <p><strong>Signed by (NOT YET)</strong></p>
-<p><em>Vexizure</em><br>
+<p><em>Azurivex</em><br>
 Archon General of the Clan of Zatsunei</p>
-<p>In [location]<br>
-[day] [month] [year]</p>
+<p>[day] [month] [year]</p>
 
 <br>
 
 <p><strong>Countersigned by (NOT YET)</strong></p>
 <p><em>Fenrir</em><br>
 Marshal of the Clan of Zatsunei</p>
-<p>In [location]<br>
-[day] [month] [year]</p>
+<p>[day] [month] [year]</p>
 
 <br><br>
 
