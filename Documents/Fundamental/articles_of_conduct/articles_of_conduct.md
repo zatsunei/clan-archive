@@ -156,4 +156,13 @@ A clan member shall endure hardship and not abandon the Clan for it.
 </div>
 
 <br>
+<h2 align="center">Article 16. ― Respect for Enemies</h2>
+
+<div align="center">
+
+A clan member shall not disrespect an enemy in combat. Victory without honor is no victory at all.
+
+</div>
+
+<br>
 <hr>
