@@ -105,6 +105,21 @@ Marshal of the Clan of Zatsunei</p>
 **3.** The Archon General shall meet and counsel with the Marshal before proclaiming an amendment.
 
 <br>
+<h2 align="center">Article 6. ― Rights of the Members</h2> 
+
+**1.** Every clan member enjoys the right to be treated with respect and fairness, regardless of rank, and the clan member shall not be subject to discrimination.
+
+**2.** Every clan member retains the right to express opinions, concerns, and suggestions without fear of retaliation, unless such expression is unlawful.
+
+**3.** Every clan member has the right to know the laws of the Clan, decisions, and any changes that affect them, except where matters of secrecy or security take precedence.
+
+**4.** No clan member shall be punished, demoted, or expelled without being informed of the reason and given the opportunity to respond, except in cases of a severe or urgent breach of the laws of the Clan.
+
+**5.** Every clan member enjoys the right to leave the Clan voluntarily.
+
+**6.** Every clan member has the right to protection by the Clan against harm.
+
+<br>
 <hr>
 
 <div class="EndStatement">
