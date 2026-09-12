@@ -119,6 +119,8 @@ Marshal of the Clan of Zatsunei</p>
 
 **6.** Every clan member has the right to protection by the Clan against harm.
 
+**7.** Should the Archon General, despite holding supreme authority, act in direct violation of this Charter, abolish the rights of the members without just reason, or rule in a manner that endangers the core principles of the Clan, members shall retain the right to resist, organize opposition, and seek his removal, or to compel him to acknowledge his wrongdoing, cease such conduct, and act in accordance with this Charter.
+
 <br>
 <hr>
 
