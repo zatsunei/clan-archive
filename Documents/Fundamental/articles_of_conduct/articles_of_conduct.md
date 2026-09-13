@@ -75,7 +75,7 @@ A clan member shall stay disciplined, for the strength of the Clan relies on the
 </div>
 
 <br>
-<h2 align="center">Article 7. ― Outsiders and Allies</h2>
+<h2 align="center">Article 7. ― Allies and Outsiders</h2>
 
 <div align="center">
 
