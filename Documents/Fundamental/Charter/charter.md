@@ -19,17 +19,19 @@
 
 <div align="center" class="signatures">
 
-<p><strong>Signed by (NOT YET)</strong></p>
+<p><strong>Signed by</strong></p>
 <p><em>Azurivex</em><br>
 Archon General of the Clan of Zatsunei</p>
-<p>[day] [month] [year]</p>
+<p>13th September of 2026</p>
+<p>Verification: https://discord.com/channels/1334172116202815498/1334172116698009678/1548698531605512414</p>
 
 <br>
 
-<p><strong>Countersigned by (NOT YET)</strong></p>
+<p><strong>Countersigned by</strong></p>
 <p><em>Fenrir</em><br>
 Marshal of the Clan of Zatsunei</p>
-<p>[day] [month] [year]</p>
+<p>13th September of 2026</p>
+<p>Verification: https://discord.com/channels/1334172116202815498/1334172116698009678/1548698072219918427</p>
 
 <br><br>
 
