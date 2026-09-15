@@ -20,7 +20,7 @@
 <div align="center" class="signatures">
 
 <p><strong>Signed by</strong></p>
-<p><em>Azurivex</em><br>
+<p><em>Vexizure</em><br>
 Archon General of the Clan of Zatsunei</p>
 <p>13th September of 2026</p>
 <p>Verification: https://trello.com/c/qxPYMJO5#comment-6aa6b234861d880a05b01867</p>
